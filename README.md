@@ -64,3 +64,8 @@ smart-resume-analyzer/
 - Resume improvement tips
 - Downloadable analysis report
 
+
+##screenshots
+
+🌐 Live Demo
+https://github.com/nehajaiz/Smart-Resume-Analyzer/
