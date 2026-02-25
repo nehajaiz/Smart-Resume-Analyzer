@@ -26,6 +26,7 @@ This project simulates an **ATS (Applicant Tracking System)** by comparing resum
 ---
 
 ## 📂 Project Structure
+
 smart-resume-analyzer/
 ├── index.html
 ├── css/
@@ -64,8 +65,11 @@ smart-resume-analyzer/
 - Resume improvement tips
 - Downloadable analysis report
 
+---
 
 ##screenshots
+
+---
 
 🌐 Live Demo
 https://github.com/nehajaiz/Smart-Resume-Analyzer/
