@@ -72,4 +72,5 @@ smart-resume-analyzer/
 ---
 
 🌐 Live Demo
+
 https://github.com/nehajaiz/Smart-Resume-Analyzer/
